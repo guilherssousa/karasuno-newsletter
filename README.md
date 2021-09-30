@@ -1,5 +1,7 @@
 # 🏐 Karasuno Newsletter
 
-Landing page de uma newsletter sobre o clube de vôlei do Colégio Karasuno, de Haikyuu.
+![Screenshot do site](./assets/screenshot.jpg)
 
-Feito com [Tailwind CSS](https://tailwindcss.com/)!
+Landing page de uma newsletter sobre o clube de vôlei do Colégio Karasuno, de Haikyuu. Feito com [Tailwind CSS](https://tailwindcss.com/)!
+
+Feito para motivos educacionais, a obra de Haikyuu é de direito da Shueisha e Haruichi Furudate. 
